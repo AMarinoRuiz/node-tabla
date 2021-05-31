@@ -1,4 +1,5 @@
-# NOTAS:
+# NOTAS: 
+Este es mi primer programa de node
 ```
       --help     Show help                                             [boolean]
       --version  Show version number                                   [boolean]
